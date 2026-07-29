@@ -253,6 +253,46 @@ export class LedComponent implements OnInit {
             alt: "Ever Commonwealth Mall Posterbox at near Escalator"
           }
         ]
+      },
+      {
+        text: "Festival Mall",
+        items: [
+          {
+            text: "Lower Ground Floor, West Wing, Near Tribal",
+            image: "https://nyxsys.ph/assets/webp-images/led/mall posterboxes/festival mall/Lower Ground Floor, West Wing, Near Tribal.webp",
+            alt: "Festival Mall Posterbox at Lower Ground Floor, West Wing, Near Tribal"
+          },
+          {
+            text: "Lower Ground Flr., West Wing, Near Dunkin",
+            image: "https://nyxsys.ph/assets/webp-images/led/mall posterboxes/festival mall/Lower Ground Flr., West Wing, Near Dunkin.webp",
+            alt: "Festival Mall Posterbox at Lower Ground Flr., West Wing, Near Dunkin"
+          },
+          {
+            text: "Lower Ground Flr., West Wing, Near Train Station, Cashier Booth",
+            image: "https://nyxsys.ph/assets/webp-images/led/mall posterboxes/festival mall/Lower Ground Flr., West Wing, Near Train Station, Cashier Booth.webp",
+            alt: "Festival Mall Mall Posterbox at Lower Ground Flr., West Wing, Near Train Station, Cashier Booth"
+          },
+          {
+            text: "Lower Ground Flr., West Wing, Near Train Station",
+            image: "https://nyxsys.ph/assets/webp-images/led/mall posterboxes/festival mall/Lower Ground Flr., West Wing, Near Train Station.webp",
+            alt: "Festival Mall Posterbox at Lower Ground Flr., West Wing, Near Train Station"
+          },
+          {
+            text: "Second Level, Main Mall, Near Honeybon",
+            image: "https://nyxsys.ph/assets/webp-images/led/mall posterboxes/festival mall/Second Level, Main Mall, Near Honeybon.webp",
+            alt: "Festival Mall Posterbox at Second Level, Main Mall, Near Honeybon"
+          },
+          {
+            text: "Upper Ground Flr., West Wing Near Muji",
+            image: "https://nyxsys.ph/assets/webp-images/led/mall posterboxes/festival mall/Upper Ground Flr., West Wing Near Muji.webp",
+            alt: "Festival Mall Posterbox at Upper Ground Flr., West Wing Near Muji"
+          },
+          {
+            text: "Upper Ground Flr., West Wing, Near Bench",
+            image: "https://nyxsys.ph/assets/webp-images/led/mall posterboxes/festival mall/Upper Ground Flr., West Wing, Near Bench.webp",
+            alt: "Festival Mall Posterbox at Upper Ground Flr., West Wing, Near Bench"
+          },
+        ]
       }
   ]
 
